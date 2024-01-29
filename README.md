@@ -6,9 +6,13 @@ Mastering Cyber Offense: Top Book Picks for Advanced Red Team Professionals by D
 
 Welcome to this comprehensive guide, tailored for red teamers of all skill levels. This collection encompasses a wide array of essential readings, from technical guides to strategic insights, providing a well-rounded approach to cybersecurity and red teaming.
 
-A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back by Bruce Schneier - Legendary cybersecurity expert and New York Times best-selling author Bruce Schneier reveals how using a hacker’s mindset can change how you think about your life and the world. <br>
+
+
+A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back by Bruce Schneier - Legendary cybersecurity expert and New York Times best-selling author Bruce Schneier reveals how using a hacker’s mindset can change how you think about your life and the world. 
+***
 
 A Guide to Kernel Exploitation: Attacking the Core by Enrico Perla et al. - Focuses on the exploitation of kernel vulnerabilities, crucial for understanding advanced cybersecurity threats.
+***
 
 Abusing the Internet of Things by Nitesh Dhanjani - Addresses the security challenges presented by the Internet of Things (IoT) and provides strategies for IoT security.
 

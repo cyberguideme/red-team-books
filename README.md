@@ -1,6 +1,9 @@
 # red-team-books
 Mastering Cyber Offense: Top Book Picks for Advanced Red Team Professionals by Daily REDteam
 
+![image](https://github.com/cyberguideme/red-team-books/assets/46444625/a80c65d5-1bb9-42f4-9ec4-5f18931b2962)
+
+
 Welcome to this comprehensive guide, tailored for red teamers of all skill levels. This collection encompasses a wide array of essential readings, from technical guides to strategic insights, providing a well-rounded approach to cybersecurity and red teaming.
 
 A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back by Bruce Schneier - Legendary cybersecurity expert and New York Times best-selling author Bruce Schneier reveals how using a hacker’s mindset can change how you think about your life and the world.
